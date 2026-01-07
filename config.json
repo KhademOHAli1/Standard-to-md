@@ -1,0 +1,18 @@
+{
+    "extraction_backend": "hybrid",
+    "ocr_dpi": 300,
+    "ocr_language": "eng",
+    "processor_type": "standard",
+    "output_format": "markdown",
+    "output_dir": "./output",
+    "remove_copyright": true,
+    "copyright_patterns": [
+        "COPYRIGHT",
+        "LICENSED BY",
+        "ALL RIGHTS RESERVED",
+        "AMERICAN PETROLEUM INSTITUTE",
+        "INFORMATION HANDLING SERVICES"
+    ],
+    "normalize_whitespace": true,
+    "max_workers": 4
+}
