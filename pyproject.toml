@@ -50,10 +50,10 @@ all = [
 pdf-to-llm = "src.__main__:main"
 
 [project.urls]
-Homepage = "https://github.com/yourusername/pdf-to-llm"
-Documentation = "https://github.com/yourusername/pdf-to-llm#readme"
-Repository = "https://github.com/yourusername/pdf-to-llm"
-Issues = "https://github.com/yourusername/pdf-to-llm/issues"
+Homepage = "https://github.com/KhademOHAli1/Standard-to-md"
+Documentation = "https://github.com/KhademOHAli1/Standard-to-md#readme"
+Repository = "https://github.com/KhademOHAli1/Standard-to-md"
+Issues = "https://github.com/KhademOHAli1/Standard-to-md/issues"
 
 [tool.setuptools.packages.find]
 where = ["."]

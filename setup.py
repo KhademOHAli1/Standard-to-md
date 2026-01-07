@@ -15,7 +15,7 @@ setup(
     description="Transform PDFs into structured data for Large Language Models",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/pdf-to-llm",
+    url="https://github.com/KhademOHAli1/Standard-to-md",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 3 - Alpha",

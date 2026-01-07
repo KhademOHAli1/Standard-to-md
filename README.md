@@ -38,8 +38,8 @@ This toolkit converts PDF documents (especially technical standards like API MPM
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/pdf-to-llm.git
-cd pdf-to-llm
+git clone https://github.com/KhademOHAli1/Standard-to-md.git
+cd Standard-to-md
 
 # Create virtual environment
 python -m venv .venv
