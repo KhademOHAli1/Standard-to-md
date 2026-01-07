@@ -14,7 +14,7 @@ Thank you for your interest in contributing! This document provides guidelines a
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/pdf-to-llm.git
+git clone https://github.com/KhademOHAli1/Standard-to-md.git
 cd pdf-to-llm
 
 # Create virtual environment
